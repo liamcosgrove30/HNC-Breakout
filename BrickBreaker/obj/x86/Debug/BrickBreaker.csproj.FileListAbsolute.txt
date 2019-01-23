@@ -1,0 +1,184 @@
+C:\Dev\Mono\BrickBreaker\BrickBreaker\obj\x86\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\ball.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\bat.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\boinggg.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\break crate.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\brick-bw.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.wma
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\fail.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\on the rocks.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\rainbow-lines.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\Content\start.xnb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\BrickBreaker.exe
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\BrickBreaker.pdb
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Dev\Mono\BrickBreaker\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+C:\Dev\Mono\BrickBreaker\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\ball.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\bat.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\boinggg.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\break crate.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\brick-bw.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.wma
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\fail.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\on the rocks.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\rainbow-lines.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\start.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.exe
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.pdb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\ball.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\bat.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\boinggg.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\break crate.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\brick-bw.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.wma
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\fail.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\on the rocks.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\rainbow-lines.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\Content\start.xnb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.exe
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.pdb
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Liam's college stuff\Portfolio project 2 - Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\ball.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\bat.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\boinggg.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\break crate.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\brick-bw.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.wma
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\fail.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\on the rocks.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\rainbow-lines.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\Content\start.xnb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.exe
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.pdb
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+F:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+F:\Liam's college stuff\Structured programming\Liam 2 Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\ball.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\bat.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\boinggg.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\break crate.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\brick-bw.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.wma
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\DST-AngryRobotIII.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\fail.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\on the rocks.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\rainbow-lines.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\Content\start.xnb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.exe
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\BrickBreaker.pdb
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Liam's college stuff\Structured programming\Liam Cosgrove Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\College Work\Stuff on hard drive\HNC\Structured programming\Liam Cosgrove Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.exe
+C:\Users\Liam\Desktop\College Work\Stuff on hard drive\HNC\Structured programming\Liam Cosgrove Breakout\BrickBreaker\obj\x86\Debug\BrickBreaker.pdb

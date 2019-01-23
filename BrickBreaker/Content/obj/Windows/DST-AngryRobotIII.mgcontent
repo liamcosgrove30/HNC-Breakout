@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/Liam's college stuff/Structured programming/Liam Cosgrove Breakout/BrickBreaker/Content/DST-AngryRobotIII.mp3</SourceFile>
+  <SourceTime>2014-11-03T22:13:24+00:00</SourceTime>
+  <DestFile>F:/Liam's college stuff/Structured programming/Liam Cosgrove Breakout/BrickBreaker/Content/bin/Windows/DST-AngryRobotIII.xnb</DestFile>
+  <DestTime>2016-08-14T13:24:46+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/Liam's college stuff/Structured programming/Liam Cosgrove Breakout/BrickBreaker/Content/bin/Windows/DST-AngryRobotIII.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
